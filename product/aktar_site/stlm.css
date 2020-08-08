@@ -1,0 +1,137 @@
+<style type="text/css">
+	body{
+	background-color:#EFF7F6;
+	
+}
+#genel{
+	width:1100px;
+	height:auto;
+	margin:auto;
+}
+
+.ust{
+	width: 1100px;
+	height: 200px;
+	background-color: #33CCFF;
+	background-image: url(images/aa.jpg);
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+.menu{
+	width: 770px;
+	height: 50px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	margin-right: 0px;
+	margin-left: 0px;
+	display: block;
+	margin-top: 0px;
+	opacity: 0.9;
+	padding-left: 0px;
+	float: right;
+}
+.menu1{
+	margin-top: 20px;
+	float: left;
+	width: 110px;
+	height: 50px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	background-color: #009110;
+	text-align: center;
+	padding-top: 0px;
+	opacity: 1;
+	line-height: normal;
+	border-radius: 10px;
+}
+#genel .menu1 a {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 17px;
+	line-height: 50px;
+	text-decoration: none;
+	opacity: 1;
+	height: auto;
+	display: block;
+	padding-left: 0px;
+	color: #FFF31C;
+	border-radius: 10px;
+}
+.menu1 a:hover{
+	background-color: #000000;
+	transition-duration: 0.5s;
+	box-shadow: inset 0 0 20px #FFFFFF;
+	-webkit-box-shadow: inset 0 0 20px #FFFFFF;
+	}
+
+
+.icerik{
+	
+	width:1100px;
+	height:auto;
+}
+.icerik-sag{
+	width: 240px;
+	background-color: #26A80C;
+	float: left;
+	margin-left: 5px;
+	text-align: center;
+	margin-top: 5px;
+	height: 220px;
+	color: #000000;
+	}
+	.icerik-sag h1 {
+	border: 1px solid #ddd;
+	background: #69dbdc;
+	text-align: center;
+	margin: 0px;
+	font: bold 25arial;
+	color: #FF0004;		
+	}
+	.icerik-sag ul li {
+	width: 170px;
+	border: 1px solid #ddd;
+	margin: 5px;
+	padding: 10px;
+	background-color: #F35D5D;
+	list-style: none;
+	color: #030303;
+	}
+	
+.icerik-sag ul li a {
+	text-decoration:none;
+	font: bold 13px verdana;
+	color:black;
+	
+}
+.icerik-sag ul li:hover{
+	background:#00ff00;
+	
+}
+	
+	.icerik-sag ul{
+	margin: 0px;
+	padding: 0px;
+	color: #FFFFFF;
+	}
+	
+.icerik-sol{
+	width: 855px;
+	min-height: 440px;
+	background-color: #FFFFFF;
+	float: left;
+	}
+	
+	.alt{
+	width: 1100px;
+	height: 60px;
+	background: #00ff00;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+	}
+	
+
+</style>
